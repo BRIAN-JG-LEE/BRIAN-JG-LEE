@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BRIAN-JG-LEE
-- 👀 I’m interested in JavaScript,TypeScript,React,Node.js,JAVA,SPRING,SPRING BOOT
+- 👀 I’m interested in JavaScript,TypeScript,React,Node.js,JAVA,SPRING,SPRING BOOT, Oracle SQL
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me brianlee2k2@gmail.com
